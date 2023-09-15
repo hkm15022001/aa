@@ -1,0 +1,37 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "b8547e34-dc2d-4408-9ab7-9349106902b4",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/"
+      },
+      "favorite": {
+        "name": "App IoT"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1689306389434"
+        }
+      }
+    },
+    {
+      "id": "73265b82-6637-42e3-9b0d-faa06de8e72c",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://root1:15022001@cluster0.gsz4qxw.mongodb.net/"
+      },
+      "favorite": {
+        "name": "avc",
+        "color": "color1"
+      },
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1689315982298"
+        }
+      }
+    }
+  ]
+}

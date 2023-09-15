@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "64b0ec47e53256e27a1a85e8"
+  },
+  "username": "hkm122",
+  "email": "h122@gmail.com",
+  "password": "$2b$10$ZkbkJrO9J2WSnIvBMELgyOMr3Z4hr0OSGDaCtT.6sMdu7sz5aAgOO",
+  "role": "customer",
+  "fullName": "hoang minh",
+  "phoneNumber": "",
+  "address": "",
+  "listRooms": [],
+  "createdDate": {
+    "$date": "2023-07-14T06:33:43.998Z"
+  },
+  "modifiedDate": {
+    "$date": "2023-07-14T06:33:43.998Z"
+  },
+  "createdAt": {
+    "$date": "2023-07-14T06:33:44.010Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T06:33:44.010Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64b0ecb387c63fff5ef22c02"
+  },
+  "username": "hkm1223",
+  "email": "h1322@gmail.com",
+  "password": "$2b$10$QeqFi9xvjFU3uyHmBcaqieEiSj4zhoJip8SCi3exb0I1zNWgREUg.",
+  "role": "customer",
+  "fullName": "hoang minh",
+  "phoneNumber": "",
+  "address": "",
+  "listRooms": [],
+  "createdDate": {
+    "$date": "2023-07-14T06:35:31.097Z"
+  },
+  "modifiedDate": {
+    "$date": "2023-07-14T06:35:31.097Z"
+  },
+  "createdAt": {
+    "$date": "2023-07-14T06:35:31.107Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T06:35:31.107Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64b0ed2187c63fff5ef22c06"
+  },
+  "username": "hkm123456",
+  "email": "h111@gmail.com",
+  "password": "$2b$10$hwZuGK0cqvXvu7G/ARDjU.avk717vuZ6FOuk/mZTpvuBypF00IPAq",
+  "role": "customer",
+  "fullName": "minh hoàng",
+  "phoneNumber": "",
+  "address": "",
+  "listRooms": [],
+  "createdDate": {
+    "$date": "2023-07-14T06:37:21.745Z"
+  },
+  "modifiedDate": {
+    "$date": "2023-07-14T06:37:21.745Z"
+  },
+  "createdAt": {
+    "$date": "2023-07-14T06:37:21.746Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-14T06:37:21.746Z"
+  },
+  "__v": 0
+}]

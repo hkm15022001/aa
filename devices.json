@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "64b2171dd44cf939fdd850b0"
+  },
+  "deviceName": "door",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "status": "off",
+  "roomId": "62616bb00aa850983c21b11b",
+  "deviceId": "17",
+  "wattage": 1,
+  "createdAt": {
+    "$date": "2023-07-15T03:48:45.214Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-21T09:59:17.810Z"
+  },
+  "__v": 0,
+  "startTime": {
+    "$date": "2023-07-21T08:48:40.039Z"
+  }
+},{
+  "_id": {
+    "$oid": "64b2176dd44cf939fdd85140"
+  },
+  "deviceName": "light",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "status": "off",
+  "roomId": "62616bb00aa850983c21b11b",
+  "deviceId": "2",
+  "wattage": 0,
+  "createdAt": {
+    "$date": "2023-07-15T03:50:05.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-21T08:56:03.401Z"
+  },
+  "__v": 0,
+  "startTime": {
+    "$date": "2023-07-20T16:32:04.293Z"
+  }
+},{
+  "_id": {
+    "$oid": "64b181def590c268351c03d5"
+  },
+  "deviceName": "fan",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "roomId": "62616bb00aa850983c21b11b",
+  "wattage": 20,
+  "deviceId": 4,
+  "createdAt": {
+    "$date": "2023-07-14T17:11:58.676Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-21T08:51:30.661Z"
+  },
+  "__v": 0,
+  "status": "off",
+  "startTime": {
+    "$date": "2023-07-20T16:32:01.197Z"
+  }
+},{
+  "_id": {
+    "$oid": "64b94fba3dc4d875fa9953c2"
+  },
+  "deviceName": "door",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "status": "off",
+  "roomId": "62616bcfadb8c6e0f01e49dc",
+  "deviceId": "17",
+  "wattage": 1,
+  "createdAt": {
+    "$date": "2023-07-15T03:48:45.214Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-20T15:58:07.488Z"
+  },
+  "__v": 0,
+  "startTime": {
+    "$date": "2023-07-20T15:58:06.102Z"
+  }
+},{
+  "_id": {
+    "$oid": "64b951603dc4d875fa9953c3"
+  },
+  "deviceName": "light",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "status": "off",
+  "roomId": "62616bcfadb8c6e0f01e49dc",
+  "deviceId": "5",
+  "wattage": 0,
+  "createdAt": {
+    "$date": "2023-07-15T03:50:05.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-21T10:02:17.599Z"
+  },
+  "__v": 0,
+  "startTime": {
+    "$date": "2023-07-20T16:32:20.166Z"
+  }
+},{
+  "_id": {
+    "$oid": "64b951873dc4d875fa9953c4"
+  },
+  "deviceName": "light",
+  "userId": "64b0ed2187c63fff5ef22c06",
+  "status": "off",
+  "roomId": "62616bb00aa850983c21b11b",
+  "deviceId": "3",
+  "wattage": 0,
+  "createdAt": {
+    "$date": "2023-07-15T03:50:05.265Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-21T08:56:03.400Z"
+  },
+  "__v": 0,
+  "startTime": {
+    "$date": "2023-07-20T16:32:08.173Z"
+  }
+}]

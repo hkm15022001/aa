@@ -1,0 +1,11 @@
+[{
+  "_id": {
+    "$oid": "62616bb00aa850983c21b11b"
+  },
+  "roomName": "Living room"
+},{
+  "_id": {
+    "$oid": "62616bcfadb8c6e0f01e49dc"
+  },
+  "roomName": "Bed room"
+}]
